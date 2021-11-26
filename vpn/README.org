@@ -3,7 +3,7 @@
 #+CAPTION OpenVPN Virtual Private Network
 #+NAME: fig:openvpn
 #+ATTR_HTML: :alt OpenVPN-logo
-[[../../../images/VPN-openvpn.png]]
+[[../images/VPN-openvpn.png]]
 
 [[ttps://openvpn.net][OpenVPN]] is a secure Virtual Access Network connectivity that allows you
 to create you own Virtual Network Server, so it is possible to simulate that you
@@ -38,7 +38,7 @@ instructions:
    #+END_src
 
 * Installation OpenVPN Client
-# TODO: not yet written
+TODO: not yet written
 
 * Client Configuration
 
